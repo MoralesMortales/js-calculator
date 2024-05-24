@@ -1,0 +1,24 @@
+.button:hover{
+    background-color: rgb(225, 229, 233);
+    color: brown;
+    transition: .2 ease-out;
+    -webkit-transition: .2 ease-out;
+    -moz-transition: .2 ease-out;
+    -ms-transition: .2 ease-out;
+    -o-transition: .2 ease-out;
+}
+
+.button{
+    padding: 30% 0;
+    background-color: rgb(155, 160, 165);
+    border-radius:100%;
+    -webkit-border-radius:100%;
+    -moz-border-radius:100%;
+    -ms-border-radius:100%;
+    -o-border-radius:100%;
+    transition: .2 ease-out;
+    -webkit-transition: .2 ease-out;
+    -moz-transition: .2 ease-out;
+    -ms-transition: .2 ease-out;
+    -o-transition: .2 ease-out;
+}
